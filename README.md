@@ -14,10 +14,6 @@
 > [!NOTE]
 > **Демо-версия для Windows 10/11.** Архив `Demo_CombatAgent.zip` можно скачать в разделе [Releases](https://github.com/LLC-PANDORA/NDMS_CombatAgent/releases/latest).
 
-<p align="center">
-  <img src="docs/banner.png" alt="NDMS Combat Agent" width="100%">
-</p>
-
 ## Запуск демо
 
 1. Скачайте `Demo_CombatAgent.zip` на странице [Releases](https://github.com/LLC-PANDORA/NDMS_CombatAgent/latest).
